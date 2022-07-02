@@ -1,0 +1,1 @@
+python pytorch_mlp_framework/train_evaluate_image_classification_system.py --batch_size 264 --num_epochs 250 --seed 0 --num_filters 32 --num_stages 4 --num_blocks_per_stage 11 --learning_rate 1e-3 --weight_decay_coefficient 1e-3 --experiment_name VGG_150_BN_RC_experiment --use_gpu True --num_classes 100 --block_type 'conv_res_block' --continue_from_epoch -1
