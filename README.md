@@ -15,6 +15,6 @@ Coursework 3 features the final project for which the novel model architecture M
 
 ![Details of the ME-NeSt-Ghost-XL model architecture](me-nest-ghost-xl.png)
 
-![Graph comparing the ME-NeSt-Ghost model architectures with the EfficientNetV2 model architectures on the CIFAR 100 dataset](acc-vs-parameters.pdf)
-
 ![Table comparing the ME-NeSt-Ghost model architectures with the EfficientNetV2 model architectures on the CIFAR 100 dataset](model-performance.png)
+
+<embed src="acc-vs-parameters.pdf" type="application/pdf">
