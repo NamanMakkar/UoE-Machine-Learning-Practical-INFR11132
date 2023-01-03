@@ -9,7 +9,7 @@ Coursework 3 features the final project for which the novel model architecture M
 
 ![Details of the ME-NeSt-Ghost-S model architecture](me-nest-ghost-s.png)
 
-![Details of the ME-NeSt-Ghost-M model architecture](me-nest_ghost-m.png)
+![Details of the ME-NeSt-Ghost-M model architecture](me-nest-ghost-m.png)
 
 ![Details of the ME-NeSt-Ghost-L model architecture](me-nest-ghost-l.png)
 
